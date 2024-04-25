@@ -1,1 +1,11 @@
 
+.cont-nav{
+    display: flex;
+    list-style: none;
+    background-color: aqua;
+    width: 50%;
+    float: right;
+}
+.cont-nav li{
+    margin: 20px;
+}
